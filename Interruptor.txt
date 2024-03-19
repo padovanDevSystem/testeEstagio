@@ -1,0 +1,4 @@
+Primeiro, ligaria o primeiro interruptor e aguardaria uns minutinhos, após aguardar, desligaria o primeiro e ligaria o segundo interruptor, e depois iria para a sala das lampadas.
+Se a lampada estiver acesa, signifca que o primeiro interruptor controla, porque foi o unico interruptor que esteve ligado antes que eu fosse na sala
+Se a lampada estiver desligada e fria ao toque, significa que o segundo interruptor controla, porque o primeiro nao teve tempo suficiente para esquentar a lampada
+Se a lampada estiver desligada, mas ainda estiver quente, significa que o terceiro interrupotor controla essa lampada, porque o primeiro interruptor a ligou e aquecer antes de ligar 
